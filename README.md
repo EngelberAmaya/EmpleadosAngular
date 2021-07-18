@@ -4,7 +4,7 @@ Small application that allows performing a CRUD of employees, using Firebase ser
 
 Instructions: Remember to change your Firebase credentials, so that the application runs correctly in the evironments, to run it locally
 
-Shows in: (https://loving-joliot-8f4ab1.netlify.app)
+Shows in: https://loving-joliot-8f4ab1.netlify.app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
 
